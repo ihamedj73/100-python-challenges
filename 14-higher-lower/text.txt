@@ -1,0 +1,2 @@
+pick person randomly in function
+
