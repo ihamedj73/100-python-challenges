@@ -2,3 +2,4 @@ prettytable==3.17.0
 pandas
 pyperclip
 requests
+beautifulsoup4
