@@ -2,7 +2,6 @@ from email import message
 from email.mime.text import MIMEText
 
 import smtplib
-
 import requests
 from datetime import datetime, timedelta
 
